@@ -1,1 +1,1 @@
-# tugas
+Proyek ini menunjukkan bagaimana prinsip desain Dependency Inversion Principle (DIP) dari SOLID dapat diimplementasikan dalam bahasa pemrograman C++. DIP adalah prinsip penting yang bertujuan untuk mengurangi ketergantungan langsung antara bagian utama aplikasi (modul level tinggi) dengan detail teknis implementasi (modul level rendah), dan sebaliknya mendorong penggunaan abstraksi.
